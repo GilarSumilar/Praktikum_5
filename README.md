@@ -21,7 +21,7 @@ INNER JOIN
 ![image](Gambar/Latihan.png)
 
 ## *Note*
-### Sebelum melakukan join table, terlebih dahulu saya menggunakan *Constrain* untuk menentukan aturan & membatasi jenis data yg bisa masuk ke table
+#### Sebelum melakukan join table, terlebih dahulu saya menggunakan *Constrain* untuk menentukan aturan & membatasi jenis data yg bisa masuk ke table
 
 ![image](Gambar/WOW.png)
 
